@@ -27,13 +27,13 @@ Este proyecto entrega un análisis completo de los clientes de ConnectaTel, con 
 - Los outliers de uso alto se consideran casos reales de alto consumo y no errores de registro.
 
 ## 📁 Estructura del repositorio
-- `S7 Version-Estudiante-Project-ConnectaTel.ipynb`: Notebook principal con todo el análisis.
+- `S7-Project-ConnectaTel.ipynb`: Notebook principal con todo el análisis.
 - `datasets/users_latam.csv`: Información de clientes y planes.
 - `datasets/usage.csv`: Registros de uso de llamadas y mensajes.
 - `datasets/plans.csv`: Detalle de planes disponibles.
 
 ## 🛠️ Cómo usarlo
-1. Abre el notebook `S7 Version-Estudiante-Project-ConnectaTel.ipynb`.
+1. Abre el notebook `S7-Project-ConnectaTel.ipynb`.
 2. Ejecuta las celdas en orden para reproducir el análisis.
 3. Revisa la sección final de `Paso 7` para el insight ejecutivo y las recomendaciones.
 
